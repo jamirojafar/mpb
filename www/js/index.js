@@ -68,7 +68,7 @@ function doReady() {
 			w = $(document).width();
 			h = $(document).height();
 			ha = $('document').height();
-			//window.plugins.toast.showLongBottom(w + ' x ' + h  + ' ');			
+			window.plugins.toast.showLongBottom(w + ' x ' + h  + ' ');			
 		});
 		
 		 $( "article" ).on( "swipe", swipeHandler );		 
