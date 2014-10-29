@@ -8,7 +8,7 @@ body {
 }
 
 body {
-		background-image: url(file:///android_asset/bg.jpg);
+		background-image: url(../img/bg.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -111,7 +111,7 @@ footer {
 
 @media all and (max-width: 699px) {
 	body {
-		background-image: url(file:///android_asset/bgx.jpg);
+		background-image: url(../img/bgx.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -125,7 +125,7 @@ footer {
 
 @media all and (min-width: 700px) and (max-width: 1199px) {
 	body {
-		background-image: url(file:///android_asset/bg.jpg);
+		background-image: url(../img/bg.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -139,7 +139,7 @@ footer {
 /* speciaal voor brede tablet scherm */
 @media all and (min-width: 1200px) and (max-width: 2200px) {
 	body {
-		background-image: url(file:///android_asset/bgdarkwide.jpg);
+		background-image: url(../img/bgdarkwide.jpg);
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -155,7 +155,7 @@ footer {
 /* tablet in portret orientatie */
 @media all and (min-height: 960px) and (max-height: 1500px) {
 	body {
-		background-image: url(file:///android_asset/bgh.jpg);
+		background-image: url(../img/bgh.jpg);
 		background-size: cover;
 		background-repeat: repeat-x;
 		background-attachment: fixed;
